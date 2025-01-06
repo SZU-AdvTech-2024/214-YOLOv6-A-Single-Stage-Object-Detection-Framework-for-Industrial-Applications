@@ -2,8 +2,6 @@
     author = "Li, Chuyi and Li, Lulu and Jiang, Hongliang and Weng, Kaiheng and Geng, Yifei and Li, Liang and Ke, Zaidan and Li, Qingyuan and Cheng, Meng and Nie, Weiqiang and Li, Yiduo and Zhang, Bo and Liang, Yufei and Zhou, Linyuan and Xu, Xiaoming and Chu, Xiangxiang and Wei, Xiaoming and Wei, Xiaolin",
     archiveprefix = "arXiv",
     eprint = "2209.02976",
-    primaryclass = "cs.CV",
     title = "{YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications}",
-    url = "https://arxiv.org/abs/2209.02976",
     year = "2022"
 }
